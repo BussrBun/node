@@ -1,5 +1,5 @@
 <!--
-  NB(chrisdickinson): if you move this file, be sure to update
+  NB(Bussrbun): if you move this file, be sure to update
   tools/doc/html.js to point at the new location.
 -->
 
